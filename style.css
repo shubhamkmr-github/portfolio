@@ -165,6 +165,9 @@ section{
     margin: auto;
 
 }
+.section__pic-container img{
+    border-radius: 5rem;
+}
 
 .section__text{
     align-self:center ;
@@ -334,8 +337,8 @@ article.icon{
   
   .project-img {
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 50%;
+    height: 50%;
   }
   
   .project-title {
